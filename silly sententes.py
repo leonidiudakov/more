@@ -10,4 +10,4 @@ def pick(words):
     return word_picked
 while True:
     print(pick(name), pick(verb), 'a', pick(noun), end='.\n')
-    sleep(0.25)
+    sleep(0.05)
