@@ -3,4 +3,4 @@ from time import sleep
 while True:
     num = randint(0, 1)
     print(num)
-    sleep(0.1)
+    input()
